@@ -69,7 +69,7 @@ const Home = () => {
                     </h2>
 
                     <h2 className={`text-4xl font-bold text-center text-gray-800 ${styles.iceberg}`}>
-                        Round 1: Design Quest
+                        Round 2: The Web Chase
                     </h2>
 
                     <h2 className={`text-2xl font-bold mt-4 text-center ${styles.iceberg}`}>
